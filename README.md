@@ -1,4 +1,11 @@
-# teablog
-Self blog based on Flask
+#Hexblog
 
-Deployed and documented at http://skyofblue.cn
+My personal blog based on Flask
+
+Deployed and documented at http://hexbot.cn
+
+Additional required packets besides the requirement.txt:
+* mysql-client
+* mysql-server
+* libmysqlclient-dev
+* libjpeg-dev
